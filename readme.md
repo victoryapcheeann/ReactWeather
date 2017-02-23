@@ -1,4 +1,4 @@
 React Weather Application
 
-<a href = "https://github.com/victoryapcheeann/ReactWeather">React Weather App</a> -
+<a href = "http://agile-badlands-35857.herokuapp.com/#/?_k=qazlga">React Weather App</a> -
   Click to open it!.
