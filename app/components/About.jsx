@@ -14,15 +14,15 @@ var About = (props) => {
         </li>
         <li>
           <a href = "http://openweathermap.org">Open Weather Map</a> -
-            I used Open Weather MAP API to search for weather data by city name.
-        </li>
-        <li>
-          <a href = "http://foundation.zurb.com/">Foundation</a> -
-            Styling and Design
+            I used Open Weather Map API to search for weather data by city name.
         </li>
         <li>
           <a href = "http://sass-lang.com/">SCSS</a> -
              Allows variables to be defined in CSS
+        </li>
+        <li>
+          <a href = "http://foundation.zurb.com/">Foundation</a> -
+            Styling and Design
         </li>
       </ul>
     </div>
